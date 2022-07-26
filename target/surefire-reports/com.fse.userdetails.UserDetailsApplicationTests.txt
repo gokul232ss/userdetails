@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.fse.userdetails.UserDetailsApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.378 s - in com.fse.userdetails.UserDetailsApplicationTests

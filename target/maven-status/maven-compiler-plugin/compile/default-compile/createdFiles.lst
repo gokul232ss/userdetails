@@ -1,0 +1,13 @@
+com\fse\userdetails\model\request\UserRequest.class
+com\fse\userdetails\web\UserInterface.class
+com\fse\userdetails\UserdetailsApplication.class
+com\fse\userdetails\exception\CommonInternalException.class
+com\fse\userdetails\config\CommonConfig.class
+com\fse\userdetails\common\CommonConstant.class
+com\fse\userdetails\web\impl\UserController.class
+com\fse\userdetails\model\response\ErrResponse.class
+com\fse\userdetails\config\JwtApplicationProperties.class
+com\fse\userdetails\model\UserDetail.class
+com\fse\userdetails\service\impl\UserServiceImpl.class
+com\fse\userdetails\repository\UserRepository.class
+com\fse\userdetails\service\UserService.class

@@ -92,6 +92,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>userdetails_local</finalName>
 	</build>
 
 </project>
